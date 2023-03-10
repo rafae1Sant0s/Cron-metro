@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+}
+div{
+    text-align: center;
+    color: rgba(97, 245, 11, 0.884);
+}
+
+button{
+    height: 2.8em;
+    width: 5.5em;
+    border: none;
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+.start-btn{
+    background-color:green
+}
+
+.pause-btn{
+    background-color: red;
+}
+
+.reset-btn{
+    background-color: rgba(51, 44, 44, 0.986);
+}
